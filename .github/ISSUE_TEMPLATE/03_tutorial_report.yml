@@ -1,6 +1,6 @@
 name: 📃 Tutorial Bug Report
 description: Report issues encountered on the .NET tutorials on the dot.net website.
-labels: [area-tutorials]
+labels: ["area-tutorials, "needs-triage"]
 body:
   - type: markdown
     attributes:

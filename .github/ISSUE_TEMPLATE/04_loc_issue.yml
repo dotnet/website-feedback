@@ -1,6 +1,6 @@
 name: 💬 Translation issue
 description: Report a translation issue on the .NET website.
-labels: [area-translation]
+labels: ["area-translation",, "needs-triage"]
 body:
   - type: markdown
     attributes:

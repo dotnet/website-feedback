@@ -1,6 +1,6 @@
 name: 💡 Feature request
 description: Suggest an idea for the website
-labels: [idea]
+labels: ["idea", "needs-triage"]
 body:
   - type: checkboxes
     attributes:
