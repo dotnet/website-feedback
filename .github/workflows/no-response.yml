@@ -16,6 +16,7 @@ jobs:
   noResponse:
     runs-on: ubuntu-latest
     permissions:
+      actions: write # Required to reset the stale action's processing cache.
       issues: write
     steps:
       - uses: actions/stale@v9
